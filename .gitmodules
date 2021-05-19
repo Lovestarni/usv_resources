@@ -1,0 +1,3 @@
+[submodule "simulators/vrx/vrx"]
+	path = simulators/vrx/vrx
+	url = http://172.16.12.2/skywalker/vrx.git
